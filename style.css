@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    padding-left: 10px;
+
+}
+span {
+    color:rgb(111, 197, 189);
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    background-color: rgb(63, 138, 168);
+    text-align: right;
+    text-decoration: underline;
+    padding-right: 10px;
+    font-weight: normal;
+}
